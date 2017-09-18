@@ -99,6 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
-/project-python/HelloWorld/.idea/
 .idea/
 HelloWorld/.idea/inspectionProfiles/
