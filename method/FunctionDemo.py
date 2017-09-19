@@ -101,7 +101,7 @@ def quadratic(aw, b, c):
         x2 = (-b - d1) / (2 * aw)
         return x1, x2
     else:
-        return
+        return '无解'
 
 
 print("x^2 - 5x + 6 = 0的解为：", quadratic(1, -5, 6))
